@@ -1,7 +1,7 @@
 # Password_checker
 ![PASSWORD_CHECKER](PASSWORD_WEEK.png)
 ![PASSWORD_CHECKER](PASSWORD_STRONG.png)
-# Password Checker Program in Python by Mayank Mali
+# Password Checker Program in Python 
 
 The Password Checker Program in Python by Mayank Mali is a tool designed to evaluate the strength of user passwords. This program takes user input for a password and then checks its strength based on certain criteria such as the length of the password, whether it contains uppercase and lowercase letters, numbers, and special characters.
 
